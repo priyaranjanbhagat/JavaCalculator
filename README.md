@@ -1,6 +1,7 @@
 # JavaCalculator
 This Calculator is design and developed in Java.
-![image](https://user-images.githubusercontent.com/28824149/145581814-536a58b5-e756-4b4d-93e3-3aa35914ee87.png)
+
+![image](https://user-images.githubusercontent.com/28824149/145582012-7b0f0ad7-5b4c-4566-b4ef-58c6db6831fd.png)
 
 Features not implemented and few bugs
 
